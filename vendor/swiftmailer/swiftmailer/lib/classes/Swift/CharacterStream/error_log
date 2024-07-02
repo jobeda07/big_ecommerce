@@ -1,0 +1,36 @@
+[17-Jan-2024 14:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[23-Jan-2024 17:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[28-Jan-2024 20:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[12-Feb-2024 07:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[17-Feb-2024 19:28:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[23-Feb-2024 08:10:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[28-Feb-2024 09:56:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[05-Mar-2024 07:20:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[21-Mar-2024 03:20:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Swift_CharacterStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16

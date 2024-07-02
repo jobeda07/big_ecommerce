@@ -1,0 +1,152 @@
+[15-Jan-2024 13:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[15-Jan-2024 20:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[15-Jan-2024 23:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[16-Jan-2024 22:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[20-Jan-2024 13:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[20-Jan-2024 22:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[21-Jan-2024 20:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[24-Jan-2024 11:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[26-Jan-2024 01:26:03 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[27-Jan-2024 12:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[27-Jan-2024 18:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[30-Jan-2024 04:38:10 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[01-Feb-2024 13:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[02-Feb-2024 16:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[04-Feb-2024 07:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[05-Feb-2024 16:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[09-Feb-2024 13:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[09-Feb-2024 16:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[10-Feb-2024 10:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[11-Feb-2024 16:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[15-Feb-2024 00:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[15-Feb-2024 04:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[20-Feb-2024 18:22:36 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[20-Feb-2024 22:34:37 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[25-Feb-2024 08:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[25-Feb-2024 22:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[26-Feb-2024 13:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[27-Feb-2024 21:44:39 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[01-Mar-2024 10:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[04-Mar-2024 03:44:58 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[04-Mar-2024 04:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[04-Mar-2024 15:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[07-Mar-2024 04:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
+[09-Mar-2024 12:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[11-Mar-2024 15:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/SendmailTransport.php on line 20
+[17-Mar-2024 09:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_ByteStream_AbstractFilterableInputStream" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 16
+[17-Mar-2024 20:37:11 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_LoadBalancedTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/FailoverTransport.php on line 16
+[19-Mar-2024 07:50:36 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_Transport_AbstractSmtpTransport" not found in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php on line 16
